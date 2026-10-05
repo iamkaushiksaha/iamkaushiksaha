@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://learning-hub-production-52b6.up.railway.app"><img src="https://img.shields.io/badge/Security%20Research%20Hub-Read-0A66C2?style=flat-square&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://kaushiksaha.com"><img src="https://img.shields.io/badge/Security%20Research%20Hub-Read-0A66C2?style=flat-square&logo=readthedocs&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/iamkaushiksaha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Kolkata-India-555?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
@@ -36,16 +36,16 @@ SOC analyst  ->  SIEM engineer  ->  SOC team lead  ->  Cloud security architect 
 
 | Project | What it is |
 |---|---|
-| **[Security Research Hub](https://learning-hub-production-52b6.up.railway.app)** | My articles and interactive guides — detection engineering and governed agentic AI |
+| **[Security Research Hub](https://kaushiksaha.com)** | My articles and interactive guides — detection engineering and governed agentic AI |
 | **[governed-cybersecurity-ai-session](https://iamkaushiksaha.github.io/governed-cybersecurity-ai-session/)** | Interactive session: from prompts to governed cybersecurity delivery |
 | **[azure-security](https://github.com/iamkaushiksaha/azure-security)** | KQL learning path, Sentinel table library and hands-on labs |
 
 ### ✍️ Recent writing
 
-- [Langfuse for cybersecurity agents](https://learning-hub-production-52b6.up.railway.app/topics/langfuse-for-cybersecurity) — what to trace in a security workflow, and what never to log
-- [Governed agentic AI for cybersecurity](https://learning-hub-production-52b6.up.railway.app/topics/governed-agentic-ai-cybersecurity) — gates, independent review and audit trails
-- [Prompt injection and trust boundaries](https://learning-hub-production-52b6.up.railway.app/topics/prompt-injection-and-trust-boundaries) — where instructions end and data begins
-- [Detection-as-Code](https://learning-hub-production-52b6.up.railway.app/topics/detection-as-code-cicd) — the pipeline and the governance around it
+- [Langfuse for cybersecurity agents](https://kaushiksaha.com/topics/langfuse-for-cybersecurity) — what to trace in a security workflow, and what never to log
+- [Governed agentic AI for cybersecurity](https://kaushiksaha.com/topics/governed-agentic-ai-cybersecurity) — gates, independent review and audit trails
+- [Prompt injection and trust boundaries](https://kaushiksaha.com/topics/prompt-injection-and-trust-boundaries) — where instructions end and data begins
+- [Detection-as-Code](https://kaushiksaha.com/topics/detection-as-code-cicd) — the pipeline and the governance around it
 
 ### 🧰 Tech
 
