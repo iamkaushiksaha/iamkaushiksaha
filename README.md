@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://kaushiksaha.com"><img src="https://img.shields.io/badge/Security%20Research%20Hub-Read-0A66C2?style=flat-square&logo=readthedocs&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/iamkaushiksaha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Kolkata-India-555?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/India-555?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -17,6 +17,8 @@
 ### 👋 About
 
 I design **Microsoft Sentinel, Defender XDR and SOAR** solutions for enterprise clients, and I build **governed agentic AI** for security operations — LLM agents that help with triage, detection engineering and architecture review, with human approval gates and full traceability.
+
+I also build **[VeriKQL](https://verikql.kaushiksaha.com)**, which checks KQL against Microsoft's parser before it reaches a workspace.
 
 ```text
 SOC analyst  ->  SIEM engineer  ->  SOC team lead  ->  Cloud security architect  ->  AI security
@@ -36,6 +38,7 @@ SOC analyst  ->  SIEM engineer  ->  SOC team lead  ->  Cloud security architect 
 
 | Project | What it is |
 |---|---|
+| **[VeriKQL](https://verikql.kaushiksaha.com)** | Checks KQL with Microsoft's own parser against pinned table schemas; it never runs your query or sees your logs |
 | **[Security Research Hub](https://kaushiksaha.com)** | My articles and interactive guides — detection engineering and governed agentic AI |
 | **[governed-cybersecurity-ai-session](https://iamkaushiksaha.github.io/governed-cybersecurity-ai-session/)** | Interactive session: from prompts to governed cybersecurity delivery |
 | **[azure-security](https://github.com/iamkaushiksaha/azure-security)** | KQL learning path, Sentinel table library and hands-on labs |
